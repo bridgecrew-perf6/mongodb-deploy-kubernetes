@@ -1,0 +1,16 @@
+{
+    _id: ObjectId('61fc195a813eea000790066c'),
+    file_load_id: ObjectId('507f1f77bcf86cd799439011'),
+    files: [
+        {
+            seq_no: 1,
+            name: '15_05_39_432.log',
+            path: 'C:\Users\vijin\kubesamples\mongodb-deployment\Inputs\15_05_39_432.log'
+        },
+        {
+            seq_no: 2,
+            name: '16_16_50_896.log',
+            path: '"C:\Users\vijin\kubesamples\mongodb-deployment\Inputs\16_16_50_896.log"'
+        }
+    ]
+}
